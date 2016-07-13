@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/tcpdf
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/tcpdf/LICENSE
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/tcpdf/CHANGELOG
+END
+tcpdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/tcpdf/tcpdf.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/tcpdf/README
+END
+html_entity_decode_php4.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/tcpdf/html_entity_decode_php4.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Chart
+END
+Title.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Chart/Title.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Chart/Layout.php
+END
+Legend.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Chart/Legend.php
+END
+PlotArea.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Chart/PlotArea.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Chart/Exception.php
+END
+DataSeries.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Chart/DataSeries.php
+END
+DataSeriesValues.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Chart/DataSeriesValues.php
+END

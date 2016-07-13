@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/trend
+END
+logarithmicBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/trend/logarithmicBestFitClass.php
+END
+trendClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/trend/trendClass.php
+END
+bestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/trend/bestFitClass.php
+END
+polynomialBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/trend/polynomialBestFitClass.php
+END
+exponentialBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/trend/exponentialBestFitClass.php
+END
+linearBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/trend/linearBestFitClass.php
+END
+powerBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/trend/powerBestFitClass.php
+END

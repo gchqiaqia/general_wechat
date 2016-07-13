@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared
+END
+PasswordHasher.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/PasswordHasher.php
+END
+TimeZone.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/TimeZone.php
+END
+CodePage.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/CodePage.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/File.php
+END
+Drawing.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/Drawing.php
+END
+OLERead.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/OLERead.php
+END
+Excel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/Excel5.php
+END
+Escher.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/Escher.php
+END
+ZipArchive.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/ZipArchive.php
+END
+OLE.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/OLE.php
+END
+XMLWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/XMLWriter.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/Date.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/Font.php
+END
+String.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/String.php
+END
+ZipStreamWrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Shared/ZipStreamWrapper.php
+END

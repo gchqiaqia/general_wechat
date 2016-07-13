@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/engines
+END
+mrg_myisam.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/engines/mrg_myisam.lib.php
+END
+bdb.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/engines/bdb.lib.php
+END
+memory.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/engines/memory.lib.php
+END
+myisam.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/engines/myisam.lib.php
+END
+innodb.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/engines/innodb.lib.php
+END
+berkeleydb.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/engines/berkeleydb.lib.php
+END
+innobase.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/engines/innobase.lib.php
+END
+merge.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/engines/merge.lib.php
+END
+binlog.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/engines/binlog.lib.php
+END
+ndbcluster.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/engines/ndbcluster.lib.php
+END

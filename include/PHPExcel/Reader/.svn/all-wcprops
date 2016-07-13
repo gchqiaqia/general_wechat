@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Reader
+END
+Gnumeric.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Reader/Gnumeric.php
+END
+CSV.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Reader/CSV.php
+END
+IReadFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Reader/IReadFilter.php
+END
+HTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Reader/HTML.php
+END
+Excel2007.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Reader/Excel2007.php
+END
+IReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Reader/IReader.php
+END
+Excel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Reader/Excel5.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Reader/Exception.php
+END
+DefaultReadFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Reader/DefaultReadFilter.php
+END
+Excel2003XML.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Reader/Excel2003XML.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Reader/Abstract.php
+END
+OOCalc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Reader/OOCalc.php
+END
+SYLK.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/hollandmeeting/!svn/ver/3/1/include/PHPExcel/Reader/SYLK.php
+END

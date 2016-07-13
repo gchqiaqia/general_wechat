@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/auth
+END
+cookie.auth.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/auth/cookie.auth.lib.php
+END
+config.auth.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/auth/config.auth.lib.php
+END
+signon.auth.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/auth/signon.auth.lib.php
+END
+http.auth.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/hollandmeeting/!svn/ver/30/1/phpmyadmin/libraries/auth/http.auth.lib.php
+END

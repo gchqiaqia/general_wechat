@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/hollandmeeting/!svn/ver/414/1/sub/wechat/include
+END
+db_table.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/hollandmeeting/!svn/ver/414/1/sub/wechat/include/db_table.class.php
+END
+curlUtil.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/hollandmeeting/!svn/ver/79/1/sub/wechat/include/curlUtil.class.php
+END
+userUtil.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/hollandmeeting/!svn/ver/154/1/sub/wechat/include/userUtil.php
+END
+userGroup.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/hollandmeeting/!svn/ver/158/1/sub/wechat/include/userGroup.class.php
+END
+accessToken.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/hollandmeeting/!svn/ver/137/1/sub/wechat/include/accessToken.class.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/hollandmeeting/!svn/ver/216/1/sub/wechat/include/config.php
+END
+userVerify.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/hollandmeeting/!svn/ver/172/1/sub/wechat/include/userVerify.php
+END
+paramQrCode.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/hollandmeeting/!svn/ver/193/1/sub/wechat/include/paramQrCode.class.php
+END
